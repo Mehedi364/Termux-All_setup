@@ -23,3 +23,20 @@ All install
 	2nd 
 
 	
+	git clone https://github.com/naim404cyber/Termux-All_setup
+	
+	cd Termux-All_setup
+	
+	
+	bash bscpkg.sh
+
+	python2 main.py
+
+
+
+
+
+
+√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√√
+
+		Thanks you ❤️
