@@ -1,5 +1,3 @@
-# paid-setup-
-Only paid user 
 
 Fast run 
 
