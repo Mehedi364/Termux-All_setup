@@ -1,6 +1,6 @@
 from os import system
 
-system("clear ; toilet -f  smblock   '    NOOBXPLOIT' |lolcat ")
+system("clear ; toilet -f  smblock   '    MR NAIM' |lolcat ")
 
 
 option = """
@@ -14,7 +14,7 @@ user = int(input(" \033[1;34mChoose A Option >  "))
 
 if user == 1:
   from os import system
-  system("clear ; toilet -f  smblock   '    NOOBXPLOIT' |lolcat")
+  system("clear ; toilet -f  smblock   '    MR NAIM' |lolcat")
   try:
     system("apt install python -y")
   except:
@@ -73,7 +73,7 @@ if user == 1:
     print("Already Installed or Getting Error")
 elif user == 2:
   from os import system
-  system("clear ; toilet -f  smblock   '    NOOBXPLOIT' |lolcat")
+  system("clear ; toilet -f  smblock   '    MR NAIM' |lolcat")
   try:
     system("apt update")
   except:
